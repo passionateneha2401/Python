@@ -8,7 +8,6 @@ def main():
     value2 = int(input())
 
     Ret = Addition(value1 , value2) 
-
     print("Addition is: ",Ret)
 
     Ret = Substraction(value1 , value2) #Error
