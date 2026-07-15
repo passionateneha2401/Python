@@ -16,10 +16,12 @@ from multiprocessing import Pool
 
 def Factorial(no):
     fact = 1
-    for i in range(1,no+1):
-        fact = fact * i
-
-    
+    fctList = []
+    for i in no:
+        for j in range(1,i+1):
+            fact = fact * i
+        fctList.append(fact)
+    return fctList    
 
 def main():
     Data = [10,15,20,25]
