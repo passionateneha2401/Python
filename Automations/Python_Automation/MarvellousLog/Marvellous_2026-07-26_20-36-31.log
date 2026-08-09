@@ -1,0 +1,309 @@
+--------------------------------------------------
+----Marvellous Platform Servillence System----
+Log File gets created at : 2026-07-26_20-36-31
+--------------------------------------------------
+
+----------System Report------------
+Number of active cpu cores : 12 
+CPU Usage : 0.0 %
+--------------------------------------------------
+RAM Usage : 8.9 %
+Total RAM avl : 8139718656
+--------------------------------------------------
+Network Usage Report
+Sent : 0.02 MB
+Receive : 0.08 MB
+--------------------------------------------------
+PID : 1
+Name : systemd
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.15
+--------------------------------------------------
+PID : 2
+Name : init-systemd(Ub
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 7
+Name : init
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 61
+Name : systemd-journald
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.20
+--------------------------------------------------
+PID : 85
+Name : systemd-udevd
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 96
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 97
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 108
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 112
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 119
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 121
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 127
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 138
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 140
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 145
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 156
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 161
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.14
+--------------------------------------------------
+PID : 165
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 168
+Name : snapfuse
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.13
+--------------------------------------------------
+PID : 218
+Name : systemd-resolved
+username : systemd-resolve
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 219
+Name : systemd-timesyncd
+username : systemd-timesync
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.09
+--------------------------------------------------
+PID : 270
+Name : cron
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 272
+Name : dbus-daemon
+username : messagebus
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 277
+Name : networkd-dispat
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.25
+--------------------------------------------------
+PID : 278
+Name : rsyslogd
+username : syslog
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.08
+--------------------------------------------------
+PID : 279
+Name : subiquity-serve
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.04
+--------------------------------------------------
+PID : 281
+Name : snapd
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.50
+--------------------------------------------------
+PID : 282
+Name : systemd-logind
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.10
+--------------------------------------------------
+PID : 314
+Name : agetty
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.03
+--------------------------------------------------
+PID : 338
+Name : unattended-upgr
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.28
+--------------------------------------------------
+PID : 439
+Name : python3.10
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 1.40
+--------------------------------------------------
+PID : 504
+Name : SessionLeader
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.01
+--------------------------------------------------
+PID : 505
+Name : Relay(506)
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.02
+--------------------------------------------------
+PID : 506
+Name : bash
+username : neha
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 507
+Name : login
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.06
+--------------------------------------------------
+PID : 511
+Name : systemd
+username : neha
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.12
+--------------------------------------------------
+PID : 512
+Name : (sd-pam)
+username : neha
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 526
+Name : bash
+username : neha
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.07
+--------------------------------------------------
+PID : 1478
+Name : wsl-pro-service
+username : root
+Status : sleeping
+CPU Usage : 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+PID : 1506
+Name : python3
+username : neha
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+----------------End of log file------------------
+--------------------------------------------------

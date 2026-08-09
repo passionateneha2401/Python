@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+Marvellous Automation Script 
+--------------------------------------------------------------------------------
+
+ Log files created: 
+--------------------------------------------------------------------------------
+Marvellous/Mumbai/empty.txt:  0bytes
+Marvellous/Mumbai/File_Read.py:  321bytes
+Marvellous/Mumbai/File_ReadX.py:  319bytes
+Marvellous/Mumbai/File_Read_seek.py:  401bytes
+Marvellous/Pune/empty.txt:  0bytes
+Marvellous/Pune/ScheduleDemo1.py:  159bytes
+Marvellous/Pune/ScheduleDemo2.py:  268bytes
+Marvellous/Pune/ScheduleDemo3.py:  371bytes
+Marvellous/Pune/ScheduleDemo4.py:  373bytes
+Marvellous/Satara/AutomationScript1.py:  174bytes
+Marvellous/Satara/AutomationScript2.py:  254bytes
+Marvellous/Satara/AutomationScript3.py:  534bytes
+Marvellous/Satara/AutomationScript4.py:  758bytes
+Marvellous/Satara/empty.txt:  0bytes
+--------------------------------------------------------------------------------
+Total files scanned : 14
+Total empty files found and deleted : 3
+--------------------------------------------------------------------------------
+Log file gets created at : Sun Jul 19 20:54:13 2026
+--------------------------------------------------------------------------------
