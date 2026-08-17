@@ -50,7 +50,7 @@ def MarvellousClassifier(DataPath):
     print("Ouput columns : Class")
     print(border)
 
-     # Step 4 : Split the dataset in training and testing
+    # Step 4 : Split the dataset in training and testing
     
     print(border)
     print("Step 4 : Seperte independet and dependetn variables")
